@@ -1,0 +1,40 @@
+ Release 1.0 
+
+TODO file:
+
+1. parse.c faylinda *pos+= 2; setirleri cons_daxilet_tok ve oxshar funksiyalarda
+yigishdirilsin ustelik argument de pos lazim deyil, cnt -de.
+
+2. arraylarin dimension olculeri 1-den boyuk beraber olmalidir , hem declarationda hem de usagede. hal-hazirda yoxlamiriq bunu.
+
+3. helelik NUMB -i atio ile yola veririrk gedir.
+
+4. eval_single_el (int_vars, ) remove first param (int_vars) no more needed.
+
+5. istifade olunmayan deyishenler baresinde xeberdarli siqnali verilmir.
+
+6. bir deyishen baresinde eyni tipden yalniz bir mesaj verilsin.
+
+7. dec_tab -i global pointer ele
+
+8. tip cevrilmesi desteklenmir ): 
+
+*9.  change code to pass reference of arrays to functions
+
+10. makroslar
+
+
+*11. Strukt ve sinif tiplerin rekursiv elanin yoxlamali
+
+12. Multiple constuktors are not supported in this release.
+
+13. move build_usg_table to  build_members
+
+14. WE insert FUNKS under fictiv SINIF_BODY for GLB_TIP, but this is not accords to real SINIF_BODY consuming
+
+15. convert sntip to ptip for functions, variables don't need any of them. 
+
+16. add expr, fcall1 to fargs_list (build_fargs)
+
+17.  set tip, ofst and lgm for func pars neatly  
+
