@@ -1,6 +1,10 @@
-
+  
+  /* GPL  V.3  
+  Parser code.
+  Ahmed Sadikhov, ahmed.sadikhov@gmail.com
+*/
 #if 1
-
+  
   #include "esrin.h"
 
   #include <conio.h>
