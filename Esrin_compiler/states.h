@@ -5,7 +5,7 @@ extern void print_tok(int);
 
 /* TOKEN ids
 
-DOn'T forget to update print_tok funct
+Don't forget to update print_tok funct
  */
 /* WARNING!!!!!!!!!!!!!!!!
   HARD CODED. Never change anything, new items add only to end!
