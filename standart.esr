@@ -1,0 +1,20 @@
+
+ 
+  funksiya kvk( kesr x){
+  
+	kesr netice;
+	
+
+	 STEKE_QOY x ;
+  
+     STANDART KVADRAT_KOK ; // digget!!! bu funskiya stekden x-i goturub
+                            //   kvadrat kokun hesablayib yeniden steke qoyur	 
+	 
+	 STEKDEN_GOTUR netice;   // neticenin unvanin steke qoy, stekden qiymeti gotur, aha kvadrat_kok -un
+                             //   qoydugu qiymeti ve menimset neticeye ASGN ile .	 
+	 
+	 qaytar netice;
+  
+  }
+  
+ 
